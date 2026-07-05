@@ -1,27 +1,17 @@
-# Hi there 👋, I'm Durvesh Nayak
+# Hey there! 👋
 
-🎓 Final Year Computer Science Engineering Student
-💻 Interested in Software Development, AI and Full Stack Development.
+I'm **Durvesh**, a final-year Computer Science student from India.
 
-## 🚀 Skills
-- Java, Spring Boot, Microservices
-- Python
-- SQL
-- HTML, CSS, JavaScript
-- Git & GitHub
-- LLM, RAG, NLP, AI Skills
+I enjoy building software that solves real problems, especially where AI can make everyday tasks simpler.
 
-## 🤖 Projects
-- AI Meeting Assistant
-- AI Complaint Registration System
-- Digi-Gram [Smart Grampanchayat Management System]
+My main tech stack is Java, SQL, Spring Boot, Frontend, Docker and GitHub. Recently, I've been exploring LLM's, RAG's, NLP, AI workfow, and prompt engineering and ML stack.
 
-## 🌱 Currently Learning
-- Data Structures & Algorithms
-- System Design
-- AI Integrations
+I've built projects like an AI Meeting Assistant and an AI Complaint Registration System, Digi-Gram [Smart Gram-panchayat Management System] and I'm always looking for the next idea to build.
+Currently focused on improving my AI integrations , backend development workflow, and writing cleaner code.
 
-## 📫 Connect with Me
-- Email: durveshnayak6@gmail.com
+### A few things about me
 
-⭐ Thanks for visiting my profile!
+- 💻 I enjoy building practical applications.
+- 🤖 Curious about AI and automation.
+- 🌱 Always learning something new.
+- ☕ Debugging > Sleeping.
