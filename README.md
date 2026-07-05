@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there!+👋;I'm+Durvesh+Nayak;Java+Developer;AI+Enthusiast;Always+Building+Something+New" />
+</p>
 # Hey there! 👋
 
 I'm **Durvesh**, a final-year Computer Science student from India.
