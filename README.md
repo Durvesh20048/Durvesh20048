@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+there...+%F0%9F%91%8B;I'm+Durvesh+Nayak;Software+Developer;AI+Enthusiast+;Always+Building+Something+New...!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+there...+%F0%9F%91%8B;I'm+Durvesh+Nayak;Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;AI+Enthusiast+;Always+Building+Something+New...!" alt="Typing SVG" />
 </p>
 
 I enjoy building software that solves real-world problems using Java and AI.
