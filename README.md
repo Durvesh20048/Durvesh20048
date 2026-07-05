@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Durvesh Nayak
 
-<!--
-**Durvesh20048/Durvesh20048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Engineering Student
+💻 Interested in Software Development, AI and Full Stack Development.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java, Spring Boot, Microservices
+- Python
+- SQL
+- HTML, CSS, JavaScript
+- Git & GitHub
+- LLM, RAG, NLP, AI Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Projects
+- AI Meeting Assistant
+- AI Complaint Registration System
+- Digi-Gram [Smart Grampanchayat Management System]
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- System Design
+- AI Integrations
+
+## 📫 Connect with Me
+- Email: durveshnayak6@gmail.com
+
+⭐ Thanks for visiting my profile!
