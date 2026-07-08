@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="<img width="1024" height="1024" alt="Gemini_Generated_Image_na6q4bna6q4bna6q" src="https://github.com/user-attachments/assets/fb32005c-414c-4601-ad2f-1c7e188846a4" />
-" width="220" alt="Durvesh Nayak">
+  <img src="assets/" width="220" alt="Durvesh Nayak">
 </p>
 
 
